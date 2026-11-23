@@ -1,1 +1,0 @@
-# leastprivilege.github.io
